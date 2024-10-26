@@ -4,7 +4,7 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-        <SignOutButton>ndnd</SignOutButton>
+        <SignOutButton>dashboard</SignOutButton>
     
     </div>
   )

@@ -5,7 +5,7 @@ const page = () => {
  
   return (
     <>
-    <SignOutButton>ndnd</SignOutButton>
+    <SignOutButton>admin dashboard</SignOutButton>
     </>
   )
 }
