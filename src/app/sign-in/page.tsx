@@ -9,7 +9,7 @@ import Link from 'next/link';
 import React, { useState } from 'react'
 import { Eye, EyeOff } from 'lucide-react'
 import { useRouter } from 'next/navigation';
-const page = () => {
+const Page = () => {
   const { isLoaded, signIn, setActive } = useSignIn()
 
   const [emailAddress, setEmailAddress] = useState("");
