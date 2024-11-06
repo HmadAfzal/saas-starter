@@ -1,4 +1,4 @@
-# Sass Starter Template - With Role-Based Auth Todo App
+# Sass Starter Template - With Role-Based Auth Todo App and Subscription Handling
 
 This repo serves as saas starter template, featuring role-based authentication using Clerk and a PostgreSQL database with Neon.
 
