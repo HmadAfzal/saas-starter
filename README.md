@@ -1,6 +1,6 @@
-# TodoMaster - Role-Based Auth Todo App
+# Sass Starter Template - With Role-Based Auth Todo App
 
-TodoMaster is a powerful task management application built with Next.js, featuring role-based authentication using Clerk and a PostgreSQL database with Neon.
+This repo serves as saas starter template, featuring role-based authentication using Clerk and a PostgreSQL database with Neon.
 
 ## Getting Started
 
